@@ -5,15 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felsangom" alt="felsangom" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/flipgoms" target="blank"><img src="https://img.shields.io/twitter/follow/flipgoms?logo=twitter&style=for-the-badge" alt="flipgoms" /></a> </p>
-
 - 🔭 I’m currently working on [W360](http://www.avior.com.br)
 
 - 🌱 I’m currently learning **vim**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/flipgoms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="flipgoms" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/felipe-dos-santos-gomes-00261180" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipe-dos-santos-gomes-00261180" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/250942" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="250942" height="30" width="40" /></a>
 </p>
